@@ -6,7 +6,7 @@
 
 <p>JavaScript can change the content of an HTML element:</p>
 
-<button type="button" onclick="myFunction()">Click Me!</button>
+<button type="button" onclick="myFunction()">Click Me2!</button>
 
 <p id="demo">This is a demonstration.</p>
 
